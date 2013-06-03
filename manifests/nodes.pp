@@ -1,10 +1,9 @@
 class base {
-   include atlas_module
+   include ganglia
 }
 
 node default {
    include base
-
 }
 
 
