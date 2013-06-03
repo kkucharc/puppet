@@ -1,2 +1,2 @@
-import 'nodes.pp' 
+#import 'nodes.pp' 
 $puppetserver = 'puppet-server' 
